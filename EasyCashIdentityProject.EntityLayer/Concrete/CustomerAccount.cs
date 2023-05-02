@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace EasyCashIdentityProject.EntityLayer.Concrete
 {
-    internal class CustomerAccount
+    public class CustomerAccount
     {
+
+        public int CustomerAccountID { get; set; }
+        // Sınıf isminin sonuna ID ile eklenilir ise birincil anahtar olması gerektiğini otomatik olarak anlar.
+
+        public string CustomerAccountNumber { get; set; }     
+
+        public string CustomerAccountCurrency { get; set;}  // birimi nedir.
+
+        public decimal CustomerAccountBalance{ get; set; }  // müşterinin hesabındaki parayı tutar.
+                                                            
+        public string CustomerAccountBankBranch { get; set; } // Şube bilgisi
+
     }
 }
