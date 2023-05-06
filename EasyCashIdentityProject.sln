@@ -14,8 +14,25 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyCashIdentityProject.PresentationLayer", "EasyCashIdentityProject.PresentationLayer\EasyCashIdentityProject.PresentationLayer.csproj", "{A90AE55F-9995-4677-A44E-AC2F8B44D1FB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notlar", "Notlar", "{E0EB8D0B-3019-43CB-B887-D68F743BF4C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4_Ders", "4_Ders", "{E0E06C6E-75C5-4C39-BA00-F2EDEAADA582}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\HUAWEI\Desktop\4_IdentityDbContext.png = C:\Users\HUAWEI\Desktop\4_IdentityDbContext.png
+		4_Identity_Kutuphanesinin_eklenmesi.txt = 4_Identity_Kutuphanesinin_eklenmesi.txt
+		C:\Users\HUAWEI\Desktop\4_ISqlTabloları.png = C:\Users\HUAWEI\Desktop\4_ISqlTabloları.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_Ders", "3_Ders", "{0AE95B17-3933-4C2D-88BF-4420E663C3D5}"
 	ProjectSection(SolutionItems) = preProject
 		Bolum3.txt = Bolum3.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5_Ders", "5_Ders", "{4D5902E2-B40B-4108-90C4-045BE8A29128}"
+	ProjectSection(SolutionItems) = preProject
+		AspNetUser_Tablosunun_ozellestirilmesi.txt = AspNetUser_Tablosunun_ozellestirilmesi.txt
+		C:\Users\HUAWEI\Desktop\AppRole.png = C:\Users\HUAWEI\Desktop\AppRole.png
+		C:\Users\HUAWEI\Desktop\AppUser.png = C:\Users\HUAWEI\Desktop\AppUser.png
+		C:\Users\HUAWEI\Desktop\IdentityDbContext.png = C:\Users\HUAWEI\Desktop\IdentityDbContext.png
 	EndProjectSection
 EndProject
 Global
@@ -47,6 +64,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E0E06C6E-75C5-4C39-BA00-F2EDEAADA582} = {E0EB8D0B-3019-43CB-B887-D68F743BF4C7}
+		{0AE95B17-3933-4C2D-88BF-4420E663C3D5} = {E0EB8D0B-3019-43CB-B887-D68F743BF4C7}
+		{4D5902E2-B40B-4108-90C4-045BE8A29128} = {E0EB8D0B-3019-43CB-B887-D68F743BF4C7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {375EB38A-EDC4-43EF-8E7D-C601FDEA9F11}
