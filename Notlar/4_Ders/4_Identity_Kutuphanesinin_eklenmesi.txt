@@ -1,0 +1,7 @@
+-Projlerin referanslarý verildi 
+
+Migration Ýþlemi yapýldýðýnda ÝDentity tabloalrý kendiliðinden sql de iþlenmiþ halde gelir.
+
+
+ID alanlarý Asp Tablolarýnda nvarchar olarak tutlmakta bunu dah asonra kendi özelleþtirmemiz ile int e çevirebiliyoruz.
+
