@@ -1,1 +1,2 @@
-﻿
+﻿DTO (Data Transfer Object)
+View model son kullanıcıya gösterilecek veriyi döndürmek için kullanılırkeni Dto uygulama katmanları arasında veriyi transfer etmek için kullanılır. Genel olarak database den gelen veriyi source olarak kullanır.

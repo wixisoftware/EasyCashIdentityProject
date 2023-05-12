@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="10_Ders_Identity_register_Backend\" />
+    <Folder Include="9_Ders_BusinessKatmanı\Tema_Dosyaları\" />
+  </ItemGroup>
+
 </Project>

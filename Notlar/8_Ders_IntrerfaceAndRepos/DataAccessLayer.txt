@@ -1,0 +1,22 @@
+﻿**Klasör yapoları 
+
+Repository Desgin Pattern kullanıyoruz.
+Repository Design Pattern, veritabanı sorumluluğunu üstlenen sınıfı tasarlarken bir standart üzerine oturtmayı hedefleyen ORM(Object Relational Mapping) araçlarıyla kombine edilerek sorgusal anlamda az sayıda metotla yüksek seviyede veri erişim imkanı sağlayan bir strateji üzerine kurulu tasarım desenidir.
+
+Abstract
+		interfaceleri tutucak 
+
+Concrete
+Context sınıfını tutuyoruz
+		
+
+EntityFramework
+		Entitye ait metotların devreye giriceğinde kullanılıcak
+Repositories
+		Burda Abstracta bulunan İmzaların vucutlarını yazıcağız.
+Migrations
+
+
+
+Dispose Method Nedir?
+Dispose Method kullanımı anlık olarak RAM'de yer açılıp scopeların arasındaki işlem bittikten sonra RAM'de açılan alanın boşaltılması yolu ile ilerlediğinden. Sabit bir RAM alanının tutulması ve performans kaybının önüne geçilmesi için tercih edilmesi çok mükemmel bir yöntemdir. 

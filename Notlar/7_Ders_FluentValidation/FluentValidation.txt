@@ -1,1 +1,2 @@
-﻿
+﻿FluentValidation bir veri doğrulama kütüphanesidir.
+FluentValidation ve benzeri ürünlerin kullanılması, verilerin doğru şekilde yani verilerin oluştururken konulmuş kısıtlamaları sağlayarak kurallara uyumlu halde olmasını ve kullanıcı ya da sistem kaynaklı hataların oluşmasını engeller.

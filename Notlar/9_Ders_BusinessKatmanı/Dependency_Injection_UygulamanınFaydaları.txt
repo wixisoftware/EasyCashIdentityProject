@@ -1,0 +1,6 @@
+﻿
+Dependenct Injection Nedir?
+şöyle class ın dışarıdan gönderilimesi dahilinde işlem yapması ile class içinden dışrıya bağımlılık kaldırılmış oluyor bu sayede herhangi bir değişiklik class dışından göndeirlen yapı ile haloluyor.
+
+Read only neden kullanılır ?
+        // readonly parametresi ne işe yarar : const gibi sabit bir değişken olarak kullanmamıza olanak tanır  fakat object diziler için bu işlemi gerrçekleştiri.
